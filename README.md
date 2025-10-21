@@ -1,0 +1,2 @@
+# Android_RecoverNavigationBar
+为一些没有虚拟导航栏的安卓设备恢复虚拟导航栏的Magisk模块
